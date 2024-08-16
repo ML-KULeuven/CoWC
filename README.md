@@ -1,4 +1,4 @@
-# Cowc
+# CoWC
 This is the repository for CoWC (Compression of Weighted CNF), an algorithm that compresses weighted CNF based on inverse resolution operators and frequent itemset mining.
 
 ## Structure
