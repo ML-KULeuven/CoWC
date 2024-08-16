@@ -132,6 +132,19 @@ import ast
 
 
 ####START###
+
+#NOTE: for the correct DB, download the csv files at the source
+# FMA: https://github.com/mdeff/fma
+#
+# Congressional voting: https://archive.ics.uci.edu/dataset/105/congressional+voting+records
+# 
+# Car evaluation :https://archive.ics.uci.edu/dataset/19/car+evaluation
+#
+# Soybean:https://archive.ics.uci.edu/dataset/90/soybean+large
+#
+# Tic-tac-toe: https://archive.ics.uci.edu/dataset/101/tic+tac+toe+endgame
+#
+# Hayes-roth:https://archive.ics.uci.edu/dataset/44/hayes+roth
 db="../Data/music_playlists/fma.csv"
 combines_file= "../Data/fma.combines"
 temp_file="../Temp/todo.cnf"
